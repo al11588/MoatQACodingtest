@@ -15,7 +15,7 @@ Go to www.moat.com and tell us how you would test the Moat Ad Search engine func
 
 * Run: "pip install virtualenv".
 
-* Goto: "LawsonAlvin- Moat_Q#1"
+* Goto: "LawsonAlvin- Moat_Q#1" folder
 
 * Run: "source venv/bin/activate".
 
