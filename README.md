@@ -2,9 +2,7 @@
 
 Question 1:
 
-QA analyst
-
-Go to www.moat.com and tell us how you would test the Moat Ad Search engine functionality and the results page. Please provide detailed test cases you would perform and the sort of bugs you would look for.
+Not providing the questions that I answered for the coding test for MOAT. 
 
 
 # How To Run Tests
