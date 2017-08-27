@@ -25,7 +25,7 @@ Go to www.moat.com and tell us how you would test the Moat Ad Search engine func
 
 # Tests I Created
 
-![Image Tests Tests](https://raw.githubusercontent.com/al11588/MoatQACodingtest/master/tests.png?token=AFM1uBvrzpaOxL95gBf4ka_C1P830_xfks5ZnloIwA%3D%3D)
+![Image Tests Tests](https://raw.githubusercontent.com/al11588/MoatQACodingtest/master/tests.png?token=AFM1uDF6PkWxao8SqVUSbv5UYquhsCYiks5ZrEoWwA%3D%3D)
 
 * Test Number 1: Search Related Test Case. - 1. I decided to create a search related test case to check if data can be inputed in the text field and to check the search response time.
 
