@@ -4,7 +4,7 @@
 
 Created five test cases testing the Moat website. 
 
-![Image Tests Tests](https://raw.githubusercontent.com/al11588/MoatQACodingtest/master/image.png?token=AFM1uEm8hRuCi-AikI7_eOUzW0RseAu0ks5b6kCOwA%3D%3D)
+![Image Tests Tests](https://raw.githubusercontent.com/al11588/SeleniumMoat/master/image.png?token=AFM1uM3hq-hQryhyJb-4o_Gqg4AaIEpdks5b6kPfwA%3D%3D)
 
 * **Test Number 1. Search Related Test Case:** I decided to create a search related test case to check if data can be inputed in the text field and to check the search response time.
 
