@@ -1,6 +1,6 @@
 # Selenium Test for the Moat website.
 
-Description:
+# Description:
 
 Created five test cases testing the Moat website. 
 
