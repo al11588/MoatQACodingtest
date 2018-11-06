@@ -29,12 +29,10 @@ Created five test cases testing the Moat website.
 
 * Run: "pip install virtualenv".
 
-* Goto: "LawsonAlvin- Moat_Q#1" folder
-
 * Run: "source venv/bin/activate".
 
 * Run: "pip install -r requirements.txt".
 
-* Run: "python LawsonAlvin - Moat_Q#1.py".
+* Run: "python3 SeleniumMoat.py".
 
 	
