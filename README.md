@@ -4,8 +4,6 @@ Description:
 
 Created five test cases testing the Moat website. 
 
-# Tests I Created
-
 ![Image Tests Tests](https://raw.githubusercontent.com/al11588/MoatQACodingtest/master/tests.png?token=AFM1uDF6PkWxao8SqVUSbv5UYquhsCYiks5ZrEoWwA%3D%3D)
 
 * Test Number 1: Search Related Test Case. - 1. I decided to create a search related test case to check if data can be inputed in the text field and to check the search response time.
